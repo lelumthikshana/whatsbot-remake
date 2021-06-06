@@ -6,9 +6,9 @@ async function cricket(url) {
         if (scoredata.success) {
             return {
                 status: true,
-                msg: `🏏 *${scoredata.livescore.title}*\n\nteam2: ${scoredata.livescore.teamtwo}\n\nTotal: ${scoredata.livescore.current}\n\n*BATMANS DETAILS*\nBatman: ${scoredata.livescore.batsman} - ${scoredata.livescore.batsmanrun} (${scoredata.livescore.ballfaced})\nFours: ${scoredata.livescore.fours}\nSixes: ${scoredata.livescore.sixes}\n\nPartnership: ${scoredata.livescore.partnership}\nRecent balls: ${scoredata.livescore.recentballs}\n\nLast Wicket: ${scoredata.livescore.lastwicket}\n\nRun rate: ${scoredata.livescore.runrate}\n\n\n\n*BOWLER DETAILS*\n\nBowler: ${scoredata.livescore.bowler}\nOvers: ${scoredata.livescore.bowlerover}\nRuns: ${scoredata.livescore.bowlerruns}\nWickets: ${scoredata.livescore.bowlerwickets}\n\n*Commentary 👇*\n\n${scoredata.livescore.commentary.map(cmntry => {
+                msg: `🏏 *${scoredata.livescore.title}*\n\nteam2: ${scoredata.livescore.teamtwo}\n\nteam1: ${scoredata.livescore.teamone}\ntoss update: ${scoredata.livescore.update}\n\nTotal: ${scoredata.livescore.current}\n\n*BATMANS DETAILS*\nBatman: ${scoredata.livescore.batsman} - ${scoredata.livescore.batsmanrun} (${scoredata.livescore.ballfaced})\nFours: ${scoredata.livescore.fours}\nSixes: ${scoredata.livescore.sixes}\n\nPartnership: ${scoredata.livescore.partnership}\nRecent balls: ${scoredata.livescore.recentballs}\n\nLast Wicket: ${scoredata.livescore.lastwicket}\n\nRun rate: ${scoredata.livescore.runrate}\n\n\n\n*BOWLER DETAILS*\n\nBowler: ${scoredata.livescore.bowler}\nOvers: ${scoredata.livescore.bowlerover}\nRuns: ${scoredata.livescore.bowlerruns}\nWickets: ${scoredata.livescore.bowlerwickets}
                     return cmntry
-                })}`,
+                `,
             }
         } else {
             throw ''
