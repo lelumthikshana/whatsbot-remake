@@ -6,7 +6,7 @@ async function cricket(url) {
         if (scoredata.success) {
             return {
                 status: true,
-                msg: `🏏 *${scoredata.livescore.title}*\nTotal: ${scoredata.livescore.current}\n\nOver: _${scoredata.livescore.bowlerover}_\nBatsman: _${scoredata.livescore.batsman} (${scoredata.livescore.batsmanrun})_\nLastwicket: _${scoredata.livescore.lastwicket}_\nRunrate: _${scoredata.livescore.runrate}_\n\n*Commentary 👇*\n\n${scoredata.livescore.commentary.map(cmntry => {
+                msg: `🏏 *${scoredata.livescore.title}*\n\nTotal: ${scoredata.livescore.current}\n\n\nBATMANS DETAILS\n\nBatman: ${scoredata.livescore.batsman} - ${scoredata.livescore.batsmanrun} (${scoredata.livescore.ballfaced})\nFours: ${scoredata.livescore.fours}\nSixes: {scoredata.livescore.sixes}\n\n*Commentary 👇*\n\n${scoredata.livescore.commentary.map(cmntry => {
                     return cmntry
                 })}`,
             }
