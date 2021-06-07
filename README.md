@@ -98,7 +98,7 @@ _You can develop your own module for Whatsbot.or just fork it and make bot more 
 
 - This Project is [Apache-2.0](https://github.com/TheWhatsBot/WhatsBot/blob/main/LICENSE) Licensed
 - Copyright 2021 by [Tuhin Kanti Pal](https://github.com/cachecleanerjeet)
-- cricket module powered by [lelum thikshana] (https://github.com/lelumthikshana/cricketoriginal)
+- cricket module powered by [lelum thikshana](https://github.com/lelumthikshana)
 
 ### support :
 
