@@ -23,8 +23,8 @@
  <img src="https://shields.io/badge/Inspiration-red?style=for-the-badge"alt="Inspiration"></a>
    <a href="#develop-">
  <img src="https://shields.io/badge/Develop-red?style=for-the-badge"alt="Develop"></a><br>
-    <a href="https://github.com/cachecleanerjeet">
-<img src="https://shields.io/badge/MADE WITH ♥ BY-TUHIN-red?style=for-the-badge"alt="Deploy"></a>
+    <a href="https://github.com/lelumthikshana">
+<img src="https://shields.io/badge/MADE WITH ♥ BY-𝕃𝔼𝕃𝕌𝕄-red?style=for-the-badge"alt="Deploy"></a>
 </p>
 
 <br>
@@ -63,7 +63,7 @@ I'm the one who make cricket moduler more effectively. But all credits goes to W
 
 ### Deploy :
 
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/TheWhatsBot/WhatsBot "Deploy with Heroku")<br>
+[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/lelumthikshana/whatsbot-remake "Deploy with Heroku")<br>
 Read the [wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-with-Heroku) before Deploy it with Heroku<br><br>
 [Deploy in VPS](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-in-VPS)
 
