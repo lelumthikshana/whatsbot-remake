@@ -29,6 +29,10 @@
 
 <br>
 
+### Re editor note (Ranger bRo) Lelum thikshana
+
+I'm the one who make cricket moduler more effectively. But all credits goes to WHATSBOT maker. look below to contact his channel & group in telegram. stay safe stay home. GOOD luck!
+
 ### Features :
 
 - Modular
@@ -39,6 +43,7 @@
 - Directory Listing in Web Server
 - Terminal Included
 - Encrypted Traffic
+- Cricket score update by Lelum
 
 ### Pre Added Plugins :
 
@@ -54,6 +59,7 @@
 - **tr** - Translate Text
 - **ud** - Urban Dictionary
 - **sticker** - Make sticker from Image
+- **cricket** - gives you cricket update in intervals as you set
 
 ### Deploy :
 
@@ -67,7 +73,7 @@ _Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://gith
 
 ### Develop :
 
-_You can develop your own module for Whatsbot. Check out the [wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Development), It is very easy if you know Javascript._
+_You can develop your own module for Whatsbot.or just fork it and make bot more powerful. Check out the [wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Development), It is very easy if you know Javascript._
 
 ### How it works :
 
@@ -87,13 +93,14 @@ _You can develop your own module for Whatsbot. Check out the [wiki](https://gith
 - [savefrom.net](https://savefrom.net/ "savefrom[dot]net") - For Youtube Module
 - [Weather API](https://github.com/cachecleanerjeet/weather-api "Weather API") - For Weather Module
 - [Cribuzz API](https://github.com/mskian/cricket-api "Cribuzz API") - Thanks to [mskian](https://github.com/mskian) for his great Cribuzz API
-
+- [cricket module](https://github.com/lelumthikshana)
 ### License & Copyright :
 
 - This Project is [Apache-2.0](https://github.com/TheWhatsBot/WhatsBot/blob/main/LICENSE) Licensed
 - Copyright 2021 by [Tuhin Kanti Pal](https://github.com/cachecleanerjeet)
+- cricket module powered by [lelum thikshana] (https://github.com/lelumthikshana)
 
-### Connect :
+### support :
 
 - [Channel](https://telegram.dog/whatsbotnews)
 - [Support Group](https://telegram.dog/whatsbotsupport)
