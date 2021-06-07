@@ -93,7 +93,7 @@ _You can develop your own module for Whatsbot.or just fork it and make bot more 
 - [savefrom.net](https://savefrom.net/ "savefrom[dot]net") - For Youtube Module
 - [Weather API](https://github.com/cachecleanerjeet/weather-api "Weather API") - For Weather Module
 - [Cribuzz API](https://github.com/mskian/cricket-api "Cribuzz API") - Thanks to [mskian](https://github.com/mskian) for his great Cribuzz API
-- [cricket module](https://github.com/lelumthikshana)
+- [Cricket Module](https://github.com/lelumthikshana) - for make it better.
 ### License & Copyright :
 
 - This Project is [Apache-2.0](https://github.com/TheWhatsBot/WhatsBot/blob/main/LICENSE) Licensed
