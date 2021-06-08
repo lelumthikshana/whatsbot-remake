@@ -126,7 +126,7 @@ client.on('message_create', async (msg) => {
             
         } else if (msg.body == "!link") { // lella official groups
             
-            msg.reply(🄲🅁🄸🄲 🅉🄾🄽🄴 official group👇\n\nhttps://chat.whatsapp.com/EgyhgB8WcWl7t08ZQyvgbk\njoin for further cricket news, updates)
+            msg.reply("🄲🅁🄸🄲 🅉🄾🄽🄴 official group👇\n\nhttps://chat.whatsapp.com/EgyhgB8WcWl7t08ZQyvgbk\njoin for further cricket news, updates");
 
         } else if (msg.body == "!start") { // Start command
             msg.delete(true)
